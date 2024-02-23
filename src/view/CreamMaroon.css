@@ -1,0 +1,21 @@
+.root {
+    -fx-background-color: #F5F5DC; /* Cream background for the main scene */
+}
+
+.button {
+    -fx-background-color: #800000; /* Maroon for button background */
+    -fx-text-fill: #F5F5DC; /* Cream for button text */
+}
+
+.label {
+    -fx-text-fill: #800000; /* Maroon for label text */
+}
+
+.text-field {
+    -fx-background-color: #E9967A; /* Lighter maroon/red for text field background */
+    -fx-text-fill: #FFFFFF; /* White for text field text */
+    -fx-prompt-text-fill: #FFFFFF; /* White for prompt text in text fields */
+    -fx-opacity: 1; /* Ensure text field is fully opaque */
+}
+
+/* Continue to adjust colors for other components as needed */
